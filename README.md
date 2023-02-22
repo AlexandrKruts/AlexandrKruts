@@ -6,7 +6,7 @@ I'm currently studying at Kharkiv National University of Radio Electronics.
 
 Also
 
-I have a certificate of graduation from the Hillel IT school with a specialization in Front-end Pro
+I have a certificate of graduation from the Hillel IT school with a specialization in Front End Pro
 <!--
 **AlexandrKruts/AlexandrKruts** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
